@@ -1,0 +1,22 @@
+<svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    div {
+      color: white;
+      font-size: 18px;
+      font-family: sans-serif;
+      font-weight: bold;
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      margin-left: 20px;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="#7bc0ef" rx="5" ry="5"/>
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      TSX
+    </div>
+  </foreignObject>
+</svg>
+
